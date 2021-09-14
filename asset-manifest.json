@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.315b2256.chunk.css",
-    "main.js": "/static/js/main.a6d8bd38.chunk.js",
-    "main.js.map": "/static/js/main.a6d8bd38.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e7797437.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e7797437.js.map",
-    "static/js/2.7a2f7aee.chunk.js": "/static/js/2.7a2f7aee.chunk.js",
-    "static/js/2.7a2f7aee.chunk.js.map": "/static/js/2.7a2f7aee.chunk.js.map",
-    "static/js/3.a2eb4022.chunk.js": "/static/js/3.a2eb4022.chunk.js",
-    "static/js/3.a2eb4022.chunk.js.map": "/static/js/3.a2eb4022.chunk.js.map",
-    "index.html": "/index.html",
-    "service-worker.js": "/service-worker.js",
-    "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.315b2256.chunk.css.map": "/static/css/main.315b2256.chunk.css.map",
-    "static/js/2.7a2f7aee.chunk.js.LICENSE.txt": "/static/js/2.7a2f7aee.chunk.js.LICENSE.txt",
-    "static/media/crown.3a4e2b15.svg": "/static/media/crown.3a4e2b15.svg",
-    "static/media/shopping-bag.a688874f.svg": "/static/media/shopping-bag.a688874f.svg"
+    "main.css": "/amin-afshari.github.io/crwn-clothing/static/css/main.315b2256.chunk.css",
+    "main.js": "/amin-afshari.github.io/crwn-clothing/static/js/main.73834d67.chunk.js",
+    "main.js.map": "/amin-afshari.github.io/crwn-clothing/static/js/main.73834d67.chunk.js.map",
+    "runtime-main.js": "/amin-afshari.github.io/crwn-clothing/static/js/runtime-main.cdaad702.js",
+    "runtime-main.js.map": "/amin-afshari.github.io/crwn-clothing/static/js/runtime-main.cdaad702.js.map",
+    "static/js/2.f6c7b354.chunk.js": "/amin-afshari.github.io/crwn-clothing/static/js/2.f6c7b354.chunk.js",
+    "static/js/2.f6c7b354.chunk.js.map": "/amin-afshari.github.io/crwn-clothing/static/js/2.f6c7b354.chunk.js.map",
+    "static/js/3.a2eb4022.chunk.js": "/amin-afshari.github.io/crwn-clothing/static/js/3.a2eb4022.chunk.js",
+    "static/js/3.a2eb4022.chunk.js.map": "/amin-afshari.github.io/crwn-clothing/static/js/3.a2eb4022.chunk.js.map",
+    "index.html": "/amin-afshari.github.io/crwn-clothing/index.html",
+    "service-worker.js": "/amin-afshari.github.io/crwn-clothing/service-worker.js",
+    "service-worker.js.map": "/amin-afshari.github.io/crwn-clothing/service-worker.js.map",
+    "static/css/main.315b2256.chunk.css.map": "/amin-afshari.github.io/crwn-clothing/static/css/main.315b2256.chunk.css.map",
+    "static/js/2.f6c7b354.chunk.js.LICENSE.txt": "/amin-afshari.github.io/crwn-clothing/static/js/2.f6c7b354.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/amin-afshari.github.io/crwn-clothing/static/media/crown.3a4e2b15.svg",
+    "static/media/shopping-bag.a688874f.svg": "/amin-afshari.github.io/crwn-clothing/static/media/shopping-bag.a688874f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7797437.js",
-    "static/js/2.7a2f7aee.chunk.js",
+    "static/js/runtime-main.cdaad702.js",
+    "static/js/2.f6c7b354.chunk.js",
     "static/css/main.315b2256.chunk.css",
-    "static/js/main.a6d8bd38.chunk.js"
+    "static/js/main.73834d67.chunk.js"
   ]
 }
